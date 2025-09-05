@@ -88,25 +88,6 @@ For **business analysts and decision-makers**, inaccurate forecasting can lead t
 - **Scalable Framework**: Same methodology can extend to **individual stocks, bonds, FX, or commodities**.  
 - **BI Integration**: A clear case of blending **data preprocessing, predictive modeling, and visualization** to enhance **executive dashboards & strategy alignment**.  
 
----
-
-## 📂 Repository Structure
-├── README.md
-├── Notebooks/
-│ └── Stock_Price_Forecasting.ipynb
-└── Results/
-├── descriptive_stats_table.png
-├── time_series_trends.png
-├── vnindex_imfs.png
-├── sliding_window.png
-├── results_metrics_table.png
-├── forecast_vnindex.png
-├── forecast_vn30.png
-├── forecast_upcom.png
-├── forecast_hnx30.png
-├── forecast_hnxindex.png
-└── model_architecture_diagram.png
-
 
 ---
 
