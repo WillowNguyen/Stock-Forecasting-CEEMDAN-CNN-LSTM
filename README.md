@@ -74,4 +74,25 @@ This project addresses that need by delivering **predictive analytics** that red
 
 ---
 
-## 📂 Repository Structure
+## 💡 Insights for Business Analysts & BI Teams
+- **Predictive Power**: The hybrid model reduces noise and improves accuracy → directly supporting **investment planning**.  
+- **Risk Management**: Forecast errors minimized → better scenario analysis and downside risk control.  
+- **Scalability**: Approach can be extended beyond indices to **individual stocks, bonds, or derivatives**.  
+- **BI Alignment**: Clear example of how **data preprocessing, advanced modeling, and visualization** can transform raw data into **business-ready insights**.  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python  
+- **Libraries**: NumPy, Pandas, Matplotlib, TensorFlow/Keras, libeemd  
+- **Techniques**: CEEMDAN decomposition, CNN, LSTM, Time-Series Forecasting  
+
+---
+
+## 📣 Author
+👤 **Nguyen Thi Thanh Truc**  
+- Bachelor of Investment Economics, University of Economics HCMC  
+- Experienced in **Data Analysis, Predictive Modeling, and Business Intelligence**  
+- Passionate about turning **complex data into actionable insights** for strategic decision-making  
+
+---
